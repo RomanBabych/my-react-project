@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name": "Jacob Mercer",
+        "rank": "Commander",
+        "age": 42,
+        "skills": ["Combat Maneuvers", "Navigation", "Strategic Planning"],
+        "status": "Active"
+    },
+
+    {
+        "id": 2,
+        "name": "Tom Holland",
+        "rank": "Lieutenant",
+        "age": 35,
+        "skills": ["Stealth Operations", "Surveillance", "Data Analysis"],
+        "status": "Active"
+    },
+
+    {
+        "id": 3,
+        "name": "Tom Cruz",
+        "rank": "Captain",
+        "age": 50,
+        "skills": ["Astrogation", "Cargo Handling", "Emergency Responce"],
+        "status": "Retired"
+    },
+
+    {
+        "id": 4,
+        "name": "Tom Hardy",
+        "rank": "Captain",
+        "age": 38,
+        "skills": ["Data Analysis", "Navigation", "Stealth Operations"],
+        "status": "Retired"
+    },
+
+    {
+        "id": 5,
+        "name": "Tom Hiddlestone",
+        "rank": "Lieutenant Commander",
+        "age": 40,
+        "skills": ["Combat Maneuvers", "Navigation", "Strategic Planning"],
+        "status": "Active"
+    }
+]
