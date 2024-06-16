@@ -1,0 +1,13 @@
+.userMenu {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.username {
+  color: red;
+}
+
+.logOutButton {
+  background-color: green;
+}

@@ -1,0 +1,33 @@
+.container {
+  border: 1px solid black;
+  padding: 20px;
+}
+
+.list {
+  /* list-style-type: none; */
+  padding: 0;
+}
+
+.text {
+  color: black;
+}
+
+.listItem {
+  padding: 0;
+}
+
+.isActive {
+  color: lightgreen;
+}
+
+.isRetired {
+  color: red;
+}
+
+.isActiveBorder {
+  border-color: lightgreen;
+}
+
+.isRetiredBorder {
+  border-color: red;
+}
